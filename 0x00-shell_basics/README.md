@@ -48,3 +48,7 @@ cd -
 11-lists
 #!/bin/bash
 ls -la . .. /boot
+
+12-file_type
+#!/bin/bash
+file /tmp/iamafile
