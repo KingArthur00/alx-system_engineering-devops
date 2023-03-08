@@ -27,3 +27,7 @@ ls -la
 6-firstdirectory
 #!/bin/bash
 mkdir /tmp/my_first_directory/
+
+7-movethatfile
+#!/bin/bash
+mv /tmp/betty/ /tmp/my_first_directory/
