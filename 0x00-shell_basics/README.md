@@ -1,3 +1,4 @@
+
 README.md
 
 0-current_working_directory
@@ -35,3 +36,7 @@ mv /tmp/betty /tmp/my_first_directory/betty
 8-firstdelete
 #!/bin/bash
 rm /tmp/my_first_directory/betty
+
+9-firstdirdeletion
+#!/bin/bash
+rm -r /tmp/my_first_directory
