@@ -4,7 +4,7 @@ README.md
 #!/bin/bash
 pwd
 
-display content list
+1-display content list
 #!/bin/bash
 ls
 
@@ -12,10 +12,14 @@ ls
 #!/bin/bash
 cd ~
 
-list_files_dir
+3-list_files_dir
 #!/bin/bash
 ls -l
 
-view_hidden_files
+4-view_hidden_files
+#!/bin/bash
+ls -la
+
+5-view digits
 #!/bin/bash
 ls -la
