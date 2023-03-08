@@ -7,3 +7,7 @@ pwd
 display content list
 #!/bin/bash
 ls
+
+2-bring_me_home
+#!/bin/bash
+cd ~
