@@ -47,4 +47,4 @@ cd -
 
 11-lists
 #!/bin/bash
-ls -la . ../boot
+ls -la . .. /boot
