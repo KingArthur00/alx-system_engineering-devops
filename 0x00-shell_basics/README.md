@@ -23,3 +23,7 @@ ls -la
 5-view digits
 #!/bin/bash
 ls -la
+
+6-firstdirectory
+#!/bin/bash
+mkdir /tmp/my_first_directory/
