@@ -31,3 +31,7 @@ mkdir /tmp/my_first_directory/
 7-movethatfile
 #!/bin/bash
 mv /tmp/betty /tmp/my_first_directory/betty
+
+8-firstdelete
+#!/bin/bash
+rm /tmp/my_first_directory/betty
