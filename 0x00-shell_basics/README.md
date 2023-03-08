@@ -60,3 +60,7 @@ ln -s/bin/ls__ls__
 14-copy_html
 #!/bin/bash
 cp -u *.html ..
+
+100-lets_move
+#!/bin/bash
+mv [[:upper:]]* /tmp/u
