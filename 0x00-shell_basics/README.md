@@ -15,3 +15,7 @@ cd ~
 list_files_dir
 #!/bin/bash
 ls -l
+
+view_hidden_files
+#!/bin/bash
+ls -la
