@@ -52,3 +52,7 @@ ls -la . .. /boot
 12-file_type
 #!/bin/bash
 file /tmp/iamafile
+
+13-symbolic_link
+#!/bin/bash
+ln -s/bin/ls__ls__
