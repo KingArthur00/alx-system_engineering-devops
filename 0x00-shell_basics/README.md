@@ -44,3 +44,7 @@ rm -r /tmp/my_first_directory
 10-back
 #!/bash/bin
 cd -
+
+11-lists
+#!/bin/bash
+ls -la . ../boot
