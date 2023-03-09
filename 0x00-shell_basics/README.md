@@ -68,3 +68,7 @@ mv [[:upper:]]* /tmp/u
 101-clean_emacs
 #!/bin/bash
 rm *~
+
+102-tree
+#!/bin/bash
+mkdir -p welcome/to/shool
