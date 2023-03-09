@@ -79,4 +79,4 @@ ls -xamp
 
 school.mgc
 0 string HOLBERTON Holberton data
-l:mime Holberton
+!:mime Holberton
