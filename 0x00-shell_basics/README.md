@@ -64,3 +64,7 @@ cp -u *.html ..
 100-lets_move
 #!/bin/bash
 mv [[:upper:]]* /tmp/u
+
+101-clean_emacs
+#!/bin/bash
+rm *~
