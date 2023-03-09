@@ -72,3 +72,7 @@ rm *~
 102-tree
 #!/bin/bash
 mkdir -p welcome/to/shool
+
+103-commas
+#!/bin/bash
+ls -xamp
